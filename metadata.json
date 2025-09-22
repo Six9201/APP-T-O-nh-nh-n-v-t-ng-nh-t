@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Xuân Sáu",
+  "description": "An application to create consistent cartoon character images using AI. Users can upload reference characters and a background, provide a prompt, and generate a new image.",
+  "requestFramePermissions": []
+}
